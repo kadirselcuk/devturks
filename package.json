@@ -23,8 +23,8 @@
     "gatsby-plugin-netlify": "2.10.0",
     "gatsby-plugin-offline": "3.9.0",
     "gatsby-plugin-webpack-bundle-analyser-v2": "1.1.20",
-    "react": "16.14.0",
-    "react-dom": "16.14.0"
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
   },
   "devDependencies": {
     "cross-env": "7.0.3"
