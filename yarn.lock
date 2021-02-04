@@ -1305,7 +1305,7 @@
     "@types/yargs" "^15.0.0"
     chalk "^3.0.0"
 
-"@lekoarts/gatsby-theme-cara@^1.2.18":
+"@lekoarts/gatsby-theme-cara@1.2.20":
   version "1.2.20"
   resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-cara/-/gatsby-theme-cara-1.2.20.tgz#5de01a87f17d6c031132bb06ac808ad227a70b3a"
   integrity sha512-95a0u8gH34jTZeFfIPiKCyqN4ajbYPtfz5QeGCTx67VKv7iR9iWyCuML6ziUPrB+LZc4pU27DlsUIJC1QSSmow==
@@ -4006,7 +4006,7 @@ create-require@^1.1.0:
   resolved "https://registry.yarnpkg.com/create-require/-/create-require-1.1.1.tgz#c1d7e8f1e5f6cfc9ff65f9cd352d37348756c333"
   integrity sha512-dcKFX3jn0MpIaXjisoRvexIJVEKzaq7z2rZKxf+MSr9TkdmHmsU4m2lcLojrj/FHl8mk5VxMmYA+ftRkP/3oKQ==
 
-cross-env@^7.0.2:
+cross-env@7.0.3:
   version "7.0.3"
   resolved "https://registry.yarnpkg.com/cross-env/-/cross-env-7.0.3.tgz#865264b29677dc015ba8418918965dd232fc54cf"
   integrity sha512-+/HKd6EgcQCJGh2PSjZuUitQBQynKor4wrFbRg4DtAgS1aWO+gU52xpH7M9ScGgXSYmAVS9bIJ8EzuaGw0oNAw==
@@ -5984,7 +5984,7 @@ gatsby-plugin-emotion@^4.5.0:
     "@babel/runtime" "^7.12.5"
     "@emotion/babel-preset-css-prop" "^10.0.27"
 
-gatsby-plugin-google-analytics@^2.4.1:
+gatsby-plugin-google-analytics@2.10.0:
   version "2.10.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-google-analytics/-/gatsby-plugin-google-analytics-2.10.0.tgz#e3a557779232fd919688b646e6ebd997c0575291"
   integrity sha512-g3NjUrEPJJmjHrUxDaxgLV3rLfFXzHnGPKv4TEiqcntbuWH24rlWiZYi1btjGN+QqJMeOYGFzNILVMS8cFLxtw==
@@ -5992,7 +5992,7 @@ gatsby-plugin-google-analytics@^2.4.1:
     "@babel/runtime" "^7.12.5"
     minimatch "3.0.4"
 
-gatsby-plugin-manifest@^2.5.2:
+gatsby-plugin-manifest@2.11.0:
   version "2.11.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-manifest/-/gatsby-plugin-manifest-2.11.0.tgz#66d4b9c29a83211c289ef597f700bd089a399193"
   integrity sha512-FyKye5egB4nBggKPIx4XlwcXAZYi0e7UoHYTGQkeRtci1nzHC3Q1/GLFfMi9F6jpmJ1Z4S3A+yYshxSap4ySJQ==
@@ -6045,7 +6045,7 @@ gatsby-plugin-mdx@^1.9.0:
     unist-util-remove "^1.0.3"
     unist-util-visit "^1.4.1"
 
-gatsby-plugin-netlify@^2.4.0:
+gatsby-plugin-netlify@2.10.0:
   version "2.10.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-netlify/-/gatsby-plugin-netlify-2.10.0.tgz#aa493f07130939ed68cb737feb239bf554ba7026"
   integrity sha512-6zNzL/ePYzOpZ6PcUhLcWI53wPWe/YBofXzzWv8OEbM/3eupNRuG4QHsjTadxJdrTTnD7AcgUdR2a6jT/L1Mxg==
@@ -6056,7 +6056,7 @@ gatsby-plugin-netlify@^2.4.0:
     lodash "^4.17.20"
     webpack-assets-manifest "^3.1.1"
 
-gatsby-plugin-offline@^3.3.3:
+gatsby-plugin-offline@3.9.0:
   version "3.9.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-offline/-/gatsby-plugin-offline-3.9.0.tgz#2d5d830b03c812ed4f52ff178cfc77ee4c0aac3f"
   integrity sha512-sLxU+QMYq7QLte+/gRNm0vTRgil6VvbkxtEjf/e/oXpAkuy+Pm9IeaWKRtNfWcThpr2CjQbdkZpELLr8PZrCDw==
@@ -6135,7 +6135,7 @@ gatsby-plugin-utils@^0.9.0:
   dependencies:
     joi "^17.2.1"
 
-gatsby-plugin-webpack-bundle-analyser-v2@^1.1.13:
+gatsby-plugin-webpack-bundle-analyser-v2@1.1.20:
   version "1.1.20"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-webpack-bundle-analyser-v2/-/gatsby-plugin-webpack-bundle-analyser-v2-1.1.20.tgz#cc2c56b0af0aeb15c40a3c4a4a4b0eacc5186ea3"
   integrity sha512-QGSq5II6sPUgQ1Dh0n7zQZlNXXIt4o+PtZW9nYFV6kpyDB8rmre5An5/cBYKsIWsQVjzYqkFl3BOUbdlIsBixw==
@@ -6253,7 +6253,7 @@ gatsby-telemetry@^1.10.0:
     node-fetch "^2.6.1"
     uuid "3.4.0"
 
-gatsby@^2.32.0:
+gatsby@2.32.0:
   version "2.32.0"
   resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.32.0.tgz#313eea05393f5e4fc4c979c0a450fa86a03773c7"
   integrity sha512-i7he7/+evhK9bijEO8UQggJLoXdmBeSlF7yTALY4Mf63uqCxILpZz76sMbXP1c8vioC0nbghpf5akrtwj25Pvw==
@@ -10669,7 +10669,7 @@ react-dev-utils@^4.2.3:
     strip-ansi "3.0.1"
     text-table "0.2.0"
 
-react-dom@^16.13.1:
+react-dom@16.14.0:
   version "16.14.0"
   resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.14.0.tgz#7ad838ec29a777fb3c75c3a190f661cf92ab8b89"
   integrity sha512-1gCeQXDLoIqMgqD3IO2Ah9bnf0w9kzhwN5q4FGnHZ67hBm9yePzB5JJAIQCc8x3pFnNlwFq4RidZggNAAkzWWw==
@@ -10741,7 +10741,7 @@ react-spring@^8.0.27:
     "@babel/runtime" "^7.3.1"
     prop-types "^15.5.8"
 
-react@^16.13.1:
+react@16.14.0:
   version "16.14.0"
   resolved "https://registry.yarnpkg.com/react/-/react-16.14.0.tgz#94d776ddd0aaa37da3eda8fc5b6b18a4c9a3114d"
   integrity sha512-0X2CImDkJGApiAlcf0ODKIneSwBPhqJawOa5wCtKbu7ZECrmS26NvtSILynQ66cgkT/RJ4LidJOc3bUESwmU8g==
