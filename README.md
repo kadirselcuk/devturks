@@ -23,6 +23,9 @@ Playful and Colorful One-Page portfolio featuring Parallax effects and animation
 
 Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de)
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkadirselcuk%2Fdevturks.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkadirselcuk%2Fdevturks?ref=badge_large)
+
 ## ✨ Features
 
 - Theme UI-based theming
@@ -32,6 +35,7 @@ Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes
 ## 🚀 Getting Started
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LekoArts/gatsby-starter-portfolio-cara) [![Edit gatsby-starter-portfolio-cara](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/LekoArts/gatsby-starter-portfolio-cara/tree/master/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkadirselcuk%2Fdevturks.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkadirselcuk%2Fdevturks?ref=badge_shield)
 
 1. **Create a Gatsby site.**
 
